@@ -3,9 +3,9 @@ Player 1 will start as X and Player 2 will start as O, the game will end once a 
 
 Installation Instructions:
 Install Node.js
-Clone the repo
-cd src
-cd my-app
+Clone the repo:
+git clone https://github.com/maggiehuang9/Tic-Tac-Toe.git
+cd Tic-Tac-Toe/src
 npm start
 
 Features to add: 
